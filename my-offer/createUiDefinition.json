@@ -116,7 +116,7 @@
                     {
                         "name": "helloWorld",
                         "type": "Microsoft.Common.OptionsGroup",
-                        "label": "Boot diagnostics",
+                        "label": "Sample Hello World App",
                         "defaultValue": "True",
                         "toolTip": "true = deploy a sample Hello World app.",
                         "constraints": {
