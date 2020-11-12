@@ -3,13 +3,13 @@
     "value": "westus"
   },
   "webAppName": {
-    "value": "webapp-9249926b5c"
+    "value": "webapp-11f76b73fa"
   },
   "sku": {
     "value": "F1"
   },
   "language": {
-    "value": "php"
+    "value": "html"
   },
   "helloWorld": {
     "value": "true"
