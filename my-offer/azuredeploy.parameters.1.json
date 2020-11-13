@@ -3,13 +3,13 @@
     "value": "eastus"
   },
   "webAppName": {
-    "value": "webapp-4c6af4e32b"
+    "value": "webapp-netsrp"
   },
   "sku": {
     "value": "F1"
   },
   "language": {
-    "value": "node"
+    "value": ".net"
   },
   "helloWorld": {
     "value": "true"
